@@ -1,6 +1,6 @@
 # 5_STAGE_OSCILLATOR
-## REG NUM :
-## NAME :
+## REG NUM :25014334
+## NAME :SANTHIYA B
 ## EXPERIMENT6.b Design a CMOS Five Stage Amplifier and find out the Transient and OP analysis.
 
 ## Aim:To Design CMOS Five Stage Amplifier and Perform Transient and OP analysis.
@@ -48,6 +48,7 @@ Netlist and Run in the sIMulation window to start the Simulation.
 When simulation finishes,the DC,AC plots automatically will be poppedup along file.
 
 ## WAVFORM:
+<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/bdacaf4c-b326-4cd3-b010-afe5a3b27c52" />
 
 ## Results:
 Design of CMOS Five Stage Amplifier Transient and OP analysisis performed.
